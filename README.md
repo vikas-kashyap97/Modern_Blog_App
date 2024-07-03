@@ -10,13 +10,13 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/dillionverma/portfolio
+   https://github.com/princeessjay/Modern_Blog_App.git
    ```
 
 2. Move to the cloned directory
 
    ```bash
-   cd portfolio
+   cd 
    ```
 
 3. Install dependencies:
