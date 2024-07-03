@@ -16,19 +16,19 @@
 2. Move to the cloned directory
 
    ```bash
-   cd 
+   cd Modern_Blog_App
    ```
 
 3. Install dependencies:
 
    ```bash
-   pnpm install
+   npm install
    ```
 
 4. Start the local Server:
 
    ```bash
-   pnpm dev
+   npm run dev
    ```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
