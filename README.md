@@ -1,8 +1,10 @@
-<ul>This is the Modern Blog Website </br>
-Built using React, Tailwind Css, Vite, eslint
-Responsive for different devices
-Optimized for React.js and Vercel
-# React + Vite</ul>
+<h2>Features</h2>
+<ul>
+   <li>This is the Modern Blog Website</li> </br>
+   <li>Built using React, Tailwind Css, Vite, eslint</li> </br>
+   <li>Responsive for different devices</li> </br>
+   <li>Optimized for React.js and Vercel</li> </br>
+</ul>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
