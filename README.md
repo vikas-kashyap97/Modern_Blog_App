@@ -13,7 +13,7 @@
    https://github.com/princeessjay/Modern_Blog_App.git
    ```
 
-2. Move to the cloned directory
+2. Move to the cloned directory:
 
    ```bash
    cd Modern_Blog_App
